@@ -2,3 +2,4 @@ RESOLUSI
 - makan
 - tidur
 - bangun
+- belajar
